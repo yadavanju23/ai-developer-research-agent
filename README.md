@@ -1,7 +1,7 @@
 ## AI Developer Research Agent
 ## Demo
 
-![AI Developer Research Agent UI](screenshots/)
+![AI Developer Research Agent UI](screenshots/purposed-solution.PNG)
 A beginner-friendly Python project that demonstrates how to build an **AI Developer Research Agent** using:
 - **LangChain** for LLM orchestration
 - **LangGraph** for multi-step workflows
